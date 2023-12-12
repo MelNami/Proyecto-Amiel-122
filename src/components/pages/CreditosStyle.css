@@ -1,0 +1,25 @@
+.bodys{
+    background-color: #D2B4DE ;
+  }
+.creds {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D2B4DE ;
+    padding: 30px;
+  }
+.aside1{
+    
+    padding: 30px;
+}
+.aside2{
+    background-color: #D2B4DE ;
+    padding: 20px;
+}
+.fotito{
+    width: 500px;
+    height: 500px;
+}
+header{
+    background-color: #D2B4DE ;
+}
