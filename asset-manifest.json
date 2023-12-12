@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Proyecto-Amiel-122/static/css/main.0b0bf7c1.css",
+    "main.js": "/Proyecto-Amiel-122/static/js/main.cabd2bd2.js",
+    "static/js/787.7370a11a.chunk.js": "/Proyecto-Amiel-122/static/js/787.7370a11a.chunk.js",
+    "static/media/foto.jpg": "/Proyecto-Amiel-122/static/media/foto.448e0807182cfada8709.jpg",
+    "static/media/QuintaGe.jpg": "/Proyecto-Amiel-122/static/media/QuintaGe.36304d183ee8a43fb3f9.jpg",
+    "static/media/SextaGen.jpg": "/Proyecto-Amiel-122/static/media/SextaGen.e6b7cdcc5ae9a6cf70ab.jpg",
+    "static/media/TercGen.jpg": "/Proyecto-Amiel-122/static/media/TercGen.c95efc63028a52eb265f.jpg",
+    "static/media/PrimGen.jpeg": "/Proyecto-Amiel-122/static/media/PrimGen.ef2d23d90de3bf4d46f9.jpeg",
+    "static/media/evolucionCompu.png": "/Proyecto-Amiel-122/static/media/evolucionCompu.f4e861b2826fc203cacd.png",
+    "static/media/SegunGen.jpeg": "/Proyecto-Amiel-122/static/media/SegunGen.397819720d7f88984e51.jpeg",
+    "static/media/CuartaGen.jpg": "/Proyecto-Amiel-122/static/media/CuartaGen.9d7618ff73b936770418.jpg",
+    "index.html": "/Proyecto-Amiel-122/index.html",
+    "main.0b0bf7c1.css.map": "/Proyecto-Amiel-122/static/css/main.0b0bf7c1.css.map",
+    "main.cabd2bd2.js.map": "/Proyecto-Amiel-122/static/js/main.cabd2bd2.js.map",
+    "787.7370a11a.chunk.js.map": "/Proyecto-Amiel-122/static/js/787.7370a11a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b0bf7c1.css",
+    "static/js/main.cabd2bd2.js"
+  ]
+}
